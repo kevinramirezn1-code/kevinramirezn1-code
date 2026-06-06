@@ -27,12 +27,12 @@
 </a>
 &nbsp;
 <!-- Replace YOUR_EMAIL with your professional email -->
-<a href="kevinramirezn1@gmail.com">
+<a href="mailto:kevinramirezn1@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <!-- Optional: Replace YOUR_CV_URL with a Google Drive or Notion link to your CV -->
-<a href="https://YOUR_CV_URL">
+<a href="https://drive.google.com/file/d/1qSLJj4H7-INgyw9Xc1PIhTataHvbve6K/view?usp=drive_link">
   <img src="https://img.shields.io/badge/Resume%2FCV-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
 </a>
 
@@ -169,23 +169,23 @@ const kevin = {
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME in all three image URLs below -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=A78BFA&text_color=E2E8F0&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinramirezn1-code&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=A78BFA&text_color=E2E8F0&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinramirezn1-code&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kevinramirezn1-code&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0D1A&color=A78BFA&line=6D28D9&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinramirezn1-code&bg_color=0D0D1A&color=A78BFA&line=6D28D9&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -200,12 +200,12 @@ const kevin = {
 <div align="center">
 
 <!-- PROJECT 1: Replace YOUR_GITHUB_USERNAME and YOUR_REPO_1 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&icon_color=A78BFA"/>
+<a href="https://github.com/kevinramirezn1-code/YOUR_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinramirezn1-code&repo=YOUR_REPO_1&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&icon_color=A78BFA"/>
 </a>
 &nbsp;
 <!-- PROJECT 2: Replace YOUR_GITHUB_USERNAME and YOUR_REPO_2 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2">
+<a href="https://github.com/kevinramirezn1-code/YOUR_REPO_2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&icon_color=A78BFA"/>
 </a>
 
@@ -271,20 +271,20 @@ const kevin = {
 <br/>
 
 <!-- Replace each URL with your real social and contact links -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/kevin-ramirez-082a422a7">
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kevinramirezn1@gmail.com">
   <img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <!-- Optional: Replace YOUR_INSTAGRAM with your handle if you want to include it -->
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/kevinramireznieto_">
   <img src="https://img.shields.io/badge/Instagram_(optional)-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -306,7 +306,7 @@ const kevin = {
 <!-- First you need to enable GitHub Actions: go to your profile repo → Actions → enable workflow -->
 <!-- Create the workflow file at: .github/workflows/snake.yml -->
 <!-- Then use the generated output: -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/kevinramirezn1-code/kevinramirezn1-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <br/>
 
