@@ -10,14 +10,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kevin%20Ramirez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Architect%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION: Replace YOUR_GITHUB_USERNAME with your real GitHub username -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/kevinramirezn1-code">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+software+solutions;Clean+code+%7C+Solid+architecture;Always+learning%2C+always+growing;Open+to+new+challenges+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE BADGES: Replace YOUR_GITHUB_USERNAME and YOUR_LINKEDIN_USERNAME -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/kevin-ramirez-082a422a7">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -27,7 +27,7 @@
 </a>
 &nbsp;
 <!-- Replace YOUR_EMAIL with your professional email -->
-<a href="mailto:YOUR_EMAIL">
+<a href="kevinramirezn1@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
