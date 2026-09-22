@@ -32,7 +32,7 @@
 </a>
 &nbsp;
 <!-- Optional: Replace YOUR_CV_URL with a Google Drive or Notion link to your CV -->
-<a href="https://drive.google.com/file/d/1qSLJj4H7-INgyw9Xc1PIhTataHvbve6K/view?usp=drive_link">
+<a href="https://drive.google.com/drive/folders/1QTL50BKqTcM-GINTCd0O-EofUwIlQghn?hl=es-419">
   <img src="https://img.shields.io/badge/Resume%2FCV-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
 </a>
 
